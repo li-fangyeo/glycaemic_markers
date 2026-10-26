@@ -1,2 +1,2 @@
 # glycaemic_markers
-cross-sectional analysis on gut microbiome and glycaemic markers
+Cross-sectional analysis on FINRISK 2002 gut microbiome and glycaemic markers
